@@ -1,4 +1,7 @@
 CubeLadder – AssaultCube Ladder Viewer with Auto-Refresh
+<p align="center">
+  <img src="screenshots/20260214_19.40.42_ac_avenue_TDM_11zon.jpg" width="600" alt="CubeLadder in action"/>
+</p>
 
 **CubeLadder** is a lightweight tool that brings the current **Top 100 ladder** from [cubeladder.ovh](https://cubeladder.ovh) directly into **AssaultCube 1.3.0.2** (and compatible versions).
 
