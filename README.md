@@ -27,6 +27,26 @@ Requirements
 - Windows operating system
 - Internet connection
 - PowerShell (comes with Windows 7+)
+  ## Platform Support
+
+### Windows
+This is the original Windows version with PowerShell scripts.
+
+### Mac & Linux
+**NEW!** Mac and Linux versions are now available in the [`mac-linux/`](mac-linux/) folder.
+
+- Full bash script support
+- Automatic config detection
+- Desktop launcher support
+- See [`mac-linux/README.md`](mac-linux/README.md) for installation
+
+Quick start for Mac/Linux:
+```bash
+cd /path/to/assaultcube/gamedata
+chmod +x install_cubeladder.sh
+xattr -c install_cubeladder.sh  # macOS only
+./install_cubeladder.sh
+```
 
 Installation (very quick)
 
